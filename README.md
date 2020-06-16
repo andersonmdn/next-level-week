@@ -4,13 +4,9 @@
 
 Projeto desenvolvido durante o **Next Level Week** da **[Rocketseat](https://rocketseat.com.br/)**. Durante uma semana foram disponibilizadas aulas para construção do projeto **Ecoleta,** acompanhei todas as aulas liberadas durante esse projeto e utilizei várias tecnoligias que foram listadas abaixo.
 
----
-
 ![.github/ecoleta2.png](.github/ecoleta2.png)
 
 # Tecnologias
-
----
 
 Projeto desenvolvido utilizando as seguintes tecnologias:
 
@@ -21,13 +17,9 @@ Projeto desenvolvido utilizando as seguintes tecnologias:
 
 # Projeto
 
----
-
 O Ecoleta é um marketplace que ajuda pessoas a encontrarem pontos de coleta de resíduos de forma eficiente.
 
 # Server
-
----
 
 O Servidor é responsavel por fornecer os dados para a aplicação **WEB** e **Mobile**.
 
@@ -42,8 +34,6 @@ Seque algumas _features_ utilizados que acho importante destacar.
 
 # Web
 
----
-
 No projeto **Web** é possível cadastrar um ponto de coleta em um ponto selecionado do mapa.
 
 Seque algumas _features_ utilizados durante o cadastro que acho importante destacar.
@@ -53,8 +43,6 @@ Seque algumas _features_ utilizados durante o cadastro que acho importante desta
 - Requisições HTTP para uma API REST utilizando o [Axios](https://github.com/axios/axios)
 
 # Mobile
-
----
 
 No projeto **Mobile** é possivel visualizar os pontos de coleta perto do usuário e conferiir os dados para entrar em contato.
 
