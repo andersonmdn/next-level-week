@@ -1,5 +1,3 @@
-# Ecoleta
-
 ![.github/ecoleta.svg](.github/ecoleta.svg)
 
 Projeto desenvolvido durante o **Next Level Week** da **[Rocketseat](https://rocketseat.com.br/)**. Durante uma semana foram disponibilizadas aulas para construção do projeto **Ecoleta,** acompanhei todas as aulas liberadas durante esse projeto e utilizei várias tecnoligias que foram listadas abaixo.
